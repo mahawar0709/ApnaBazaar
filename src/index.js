@@ -234,7 +234,7 @@
 //   });
 //   }
 // });
-
+//tanu
 // bot.onText(/\/confirm/, async (msg) => {
 //   const chatId = msg.chat.id;
 //   const orderId = new Date().getTime().toString();
